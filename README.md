@@ -15,5 +15,3 @@ This projects assumes:
 
 - official Pandas documentation
   https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.day_name.html
-
-the solution code in practice question 3 of the 'Explore US Bikeshare Data' lesson references the depreciated method '.dt.weekday_name', after referencing the documentation I found the updated method to be '.dt.day_name()'
